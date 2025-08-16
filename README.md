@@ -1,9 +1,7 @@
 
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app<details align="center">
-<summary><b>🔍 Detailed Tech Stack</b></summary>
-<br>i?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Matt%20Builes&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=70&descAlignY=65&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Matt%20Builes&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=70&descAlignY=65&animation=fadeIn" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Machine+Learning+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
   
