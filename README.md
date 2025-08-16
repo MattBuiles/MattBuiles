@@ -1,34 +1,92 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&du### 🔬 Current Focus Areasation=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Matt+Builes;AI+Developer+%7C+Full+Stack+Engineer" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Matt%20Builes&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=70&descAlignY=65&animation=fadeIn" />
   
-  <h3>🤖 <em>AI Developer | Full Stack Engineer | Machine Learning Enthusiast</em></h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🤖+AI+%26+Machine+Learning+Specialist;🚀+Building+Intelligent+Solutions;💡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  
+  <br/>
   
   <p align="center">
-    <strong>🧠 Passionate about Artificial Intelligence and innovative tech solutions</strong><br/>
-    🚀 Building intelligent applications that bridge AI capabilities with real-world needs<br/>
-    💻 Experience in web development, mobile apps, data analysis, and AI/ML systems<br/>
-    🌱 Always exploring cutting-edge technologies in AI, machine learning, and software development
+    <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?style=for-the-badge&logo=brain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Passion-Innovation-blue?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Goal-Tech%20Excellence-orange?style=for-the-badge&logo=target&logoColor=white"/>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=MattBuiles&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="https://komarev.com/ghpvc/?username=MattBuiles&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/MattBuiles?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/MattBuiles?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=Stars" alt="Stars"/>
+  </div>
   
 </div>
 
 
-## 🌐 Connect with me:
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <b> Connect & Collaborate </b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/mattbuiles">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/mateb53">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://mattbuiles.dev">
+          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:matt@example.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattbuiles) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mateb53)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mattbuiles.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt@example.com)
-
+  💼 **Open to exciting opportunities and collaborations** 💼  
+  🎯 **Let's build something amazing together!** 🎯
+  
 </div>
 
-## 💻 Tech Stack:
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+  <b> Technology Arsenal </b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+</h2>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,jupyter&perline=7" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,java,kotlin,dart,c,r,html,css&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flutter,vite&perline=6" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,postgresql,firebase,gcp&perline=6" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,latex&perline=5" />
+  
+</div>
+
+<details align="center">
+<summary><b>� Detailed Tech Stack</b></summary>
+<br>
 
 ### 🧠 AI & Machine Learning:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -77,6 +135,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
 ---
 
 ## 📊 GitHub Analytics:
