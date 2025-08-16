@@ -42,12 +42,12 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://mattbuiles.dev">
+        <a href="https://mattbuiles.github.io/portfolio/#home">
           <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="mailto:matt@example.com">
+        <a href="mailto:matebuilesd@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
