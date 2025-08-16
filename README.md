@@ -1,9 +1,11 @@
 
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Matt%20Builes&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=70&descAlignY=65&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app<details align="center">
+<summary><b>🔍 Detailed Tech Stack</b></summary>
+<br>i?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Matt%20Builes&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=70&descAlignY=65&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🤖+AI+%26+Machine+Learning+Specialist;🚀+Building+Intelligent+Solutions;💡+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Machine+Learning+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
   
   <br/>
   
@@ -139,93 +141,119 @@
 </details>
 ---
 
-## 📊 GitHub Analytics:
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+  <b> GitHub Analytics </b>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+</h2>
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattBuiles&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MattBuiles&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBuiles&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=FFFFFF" />
+      </td>
+    </tr>
+  </table>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MattBuiles&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattBuiles&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBuiles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
-## 🏆 GitHub Achievements:
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
+  <b> GitHub Trophies </b>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
+</h2>
+
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MattBuiles&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3)
+  <img src="https://github-profile-trophy.vercel.app/?username=MattBuiles&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
   
 </div>
 
-## 🤖 What I'm working on:
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+  <b> GitHub Activity Graph </b>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+</h2>
 
 <div align="center">
-
-### � Current Focus Areas
-
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattBuiles&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  
 </div>
 
-- 🧠 **AI Development**: Building intelligent applications and exploring machine learning algorithms
-- 🚀 **Full Stack Projects**: Creating seamless web applications with **React** and **Node.js**
-- 📊 **Data Analysis**: Extracting insights from complex datasets using **Python** and **R**
-- 🌱 **Learning**: Advanced **AI/ML techniques**, **Cloud Architecture**, and **DevOps** practices
-- 👯 **Collaboration**: Open to collaborating on **AI projects**, **Open Source** initiatives, and innovative tech solutions
-- 💬 **Ask me about**: **Artificial Intelligence**, **Machine Learning**, **Web Development**, **Mobile Apps**, or **Data Science**
 
-<div align="center">
-
-### Fun Fact
-*I believe AI is not about replacing human creativity, but amplifying it to solve complex real-world problems!*
-
-</div>
-
-## Activity Graph:
+## 💡 Daily Inspiration:
 <div align="center">
   
-  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MattBuiles&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
   
 </div>
 
+---
 
-## Daily Inspiration:
-<div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
-## Top Contributed Repositories:
+## 🌟 Top Contributed Repositories:
 <div align="center">
   
   ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=MattBuiles&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
   
 </div>
 
+---
+
 <div align="center">
   
-  ### 🐍 Contribution Snake Game
-  *Watch my GitHub contributions get consumed!*
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <b> Thank You for Visiting! </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MattBuiles/MattBuiles/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattBuiles/MattBuiles/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MattBuiles/MattBuiles/output/github-contribution-grid-snake.svg">
   </picture>
-
-
-
-  ### 🎯 Let's Connect & Collaborate!
-  
-  <img src="https://visitcount.itsvg.in/api?id=MattBuiles&icon=2&color=6" alt="Visitor Count" />
   
   <br><br>
   
-  <em>"The best way to predict the future is to invent it, especially with AI." – Inspired by Alan Kay</em>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=MattBuiles&style=for-the-badge&color=00D4AA&label=Profile+Views" alt="Profile Views" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/MattBuiles?style=for-the-badge&color=blue&labelColor=1c1917&label=Follow" alt="Follow"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MattBuiles?tab=repositories&sort=stargazers">
+          <img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logoColor=white" alt="Star My Repos"/>
+        </a>
+      </td>
+    </tr>
+    </table>
   
-  <br><br>
+  <br>
   
-  ⭐ **Feel free to star my repositories if you find them interesting!** ⭐
+  <h3>💭 Closing Thought</h3>
+  <p><em>"The best way to predict the future is to invent it, especially with AI."</em></p>
+  <p><sub>– Inspired by Alan Kay</sub></p>
+  
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
   
 </div>
 
