@@ -167,6 +167,64 @@
 ---
 
 <h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <b> What I'm Working On </b>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧠 AI Development</h3>
+        <p><em>Building intelligent applications and exploring machine learning algorithms</em></p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🚀 Full Stack Projects</h3>
+        <p><em>Creating seamless web applications with React and Node.js</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>📊 Data Analysis</h3>
+        <p><em>Extracting insights from complex datasets using Python and R</em></p>
+      </td>
+      <td align="center">
+        <h3>🌱 Continuous Learning</h3>
+        <p><em>Advanced AI/ML techniques, Cloud Architecture, and DevOps practices</em></p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  ### 🤝 Looking to Collaborate On:
+  
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Projects-FF6B6B?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source-4ECDC4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Innovative%20Solutions-45B7D1?style=for-the-badge&logoColor=white" />
+  </p>
+  
+  ### 💬 Ask Me About:
+  
+  <p>
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-00D4AA?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF9F43?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web%20Development-5F27CD?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Science-E74C3C?style=for-the-badge&logoColor=white" />
+  </p>
+  
+  ### 💡 Philosophy
+  
+  <p><em>"AI is not about replacing human creativity, but amplifying it to solve complex real-world problems!"</em></p>
+  
+</div>
+
+---
+
+<h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
   <b> GitHub Trophies </b>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
@@ -176,8 +234,6 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=MattBuiles&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
   
-</div>
-
 </div>
 
 ---
