@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://linkedin.com/in/mattbuiles">
+        <a href="https://www.linkedin.com/in/mateo-builes-73453531b">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" />
         </a>
       </td>
