@@ -18,9 +18,15 @@
 
 ### About
 
+<img src="https://raw.githubusercontent.com/MattBuiles/MattBuiles/main/assets/shihtzu.jpg" align="right" width="140" style="border-radius: 12px; margin-left: 16px;" alt="my shih tzu" />
+
 AI Engineer focused on **multi-agent systems, RAG, and applied LLMs**.
 Currently working at **Reshape Automation**, building production AI tools.
 Systems & Informatics Engineering @ Universidad Nacional de Colombia — Medellín.
+
+Off-keyboard: powered by tinto and a shih tzu's company.
+
+<br clear="right" />
 
 ---
 
