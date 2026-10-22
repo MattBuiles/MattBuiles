@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-builes-73453531b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://mattbuiles.github.io/portfolio/#home"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://orbit-matts-projects-07f62892.vercel.app"><img src="https://img.shields.io/badge/Orbit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:mateo@reshapeautomation.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -24,9 +25,19 @@ AI Engineer focused on **multi-agent systems, RAG, and applied LLMs**.
 Currently working at **Reshape Automation**, building production AI tools.
 Systems & Informatics Engineering @ Universidad Nacional de Colombia — Medellín.
 
+**Tech Sphere Challenge** — 🥇 first place in 2026 (PostOp Voice Agent) and 🥈 second place in 2025.
+
 Off-keyboard: powered by tinto and a shih tzu's company.
 
 <br clear="right" />
+
+---
+
+### Live
+
+- **[Orbit](https://orbit-matts-projects-07f62892.vercel.app)** — public dashboard of everything I run: projects, status and activity, updated nightly.
+- **[strata](https://mattbuiles.github.io/strata-ui/)** — the design system behind my apps ([repo](https://github.com/MattBuiles/strata-ui)).
+- **[Portfolio](https://mattbuiles.github.io/portfolio/)** — projects, certificates and contests.
 
 ---
 
@@ -62,7 +73,7 @@ AI-assisted diagnostic system that classifies chest X-rays for Tuberculosis usin
 </td>
 <td width="50%" valign="top">
 
-#### [Catch the Snitch](https://github.com/MattBuiles/centro_apuestas_quidditch)
+#### [Catch the Snitch](https://github.com/MattBuiles/centro_apuestas_quidditch) · [demo](https://centro-apuestas-quidditch.vercel.app)
 Full-stack Quidditch betting platform. **React 19 + TypeScript** frontend, Node + Express REST API, real-time match simulation over WebSockets, JWT auth with roles, SQLite persistence, and round-robin league generation.
 
 `React 19` · `TypeScript` · `Node` · `Express` · `WebSockets`
@@ -80,10 +91,28 @@ Cross-platform fitness mobile app in **Flutter**. Workout routines, nutrition tr
 </td>
 <td width="50%" valign="top">
 
-#### [Cotización Software](https://cotizacionsoftware.onrender.com/)
-Live web app ([code](https://github.com/MattBuiles/CotizacionSoftware)) for managing software project quotations: clients, products, services, and versioned quotes. Built with **Flask**, deployed on Render.
+#### [Cotización Software](https://cotizacion-software.vercel.app/)
+Live web app for managing software project quotations: clients, products, services, and versioned quotes. Built with **Flask** and Postgres (Neon), deployed on Vercel.
 
-`Python` · `Flask` · `Render`
+`Python` · `Flask` · `Postgres` · `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [PostOp Voice Agent](https://github.com/MattBuiles/postop-voice-agent)
+Voice agent for post-surgery follow-up: talks in Colombian Spanish, answers from a clinical corpus with traceable sources, and escalates to staff with deterministic triage. First place at Tech Sphere Challenge 2026.
+
+`Python` · `RAG` · `Voice AI` · `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### [LaTexIA](https://github.com/MattBuiles/latexia) · [demo](https://latexia-gateway.onrender.com)
+Microservices that turn a photo of a handwritten math expression into LaTeX: segment each symbol, classify it with a PyTorch CNN, serve it through a FastAPI gateway.
+
+`Python` · `FastAPI` · `PyTorch` · `OpenCV`
 
 </td>
 </tr>
